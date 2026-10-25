@@ -1,0 +1,5 @@
+# Google GenAI SDK (for Gemini API calls and JSON mode)
+google-genai>=0.1.0
+
+# Optional: Environment variable management (for loading GEMINI_API_KEY from .env)
+python-dotenv>=1.0.0
